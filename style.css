@@ -1,0 +1,68 @@
+#h1{
+    text-align: center;
+}
+
+.commonbtn{
+    background-color: blanchedalmond;
+    margin-left: 38.5%;
+    width: 340px;
+    border-radius: 8px;
+}
+
+.container{
+    border: 2px solid black;
+    height: 99vh;
+    width: 99vw;
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    
+}
+
+/* #calculatebtn{
+    display: block;
+    margin-top: 10px;
+    margin-left: 700px;
+    background-color: red;
+    color: black;
+    border: 2px solid black;
+    height: 40px;
+    font-weight: bolder;
+    border-radius: 3px;
+} */
+
+.input{
+    margin: auto;
+    display: inline;
+    margin-left: 600px;
+    height: 50px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+.output{
+    margin-left: 500px;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+.buttons{
+   /* margin-left: 37%; */
+    margin-top: 25px;
+   /* width: 380px; */
+}
+
+.btn{
+    margin: 15px;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 4px;
+    color: azure;
+    background-color: crimson;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
